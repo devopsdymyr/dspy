@@ -1,6 +1,12 @@
 # DSPy: Problems & Solutions - Testable Examples
 
-This folder contains practical examples demonstrating the problems DSPy solves and how it solves them.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This repository contains practical examples demonstrating the problems DSPy solves and how it solves them. Perfect for learning DSPy through hands-on examples.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📁 Structure
 
@@ -81,6 +87,18 @@ python dspy_solution.py
 - Examples use mock responses when API keys aren't available
 - All examples are runnable and testable
 - Each example includes clear comments explaining the problem
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+- Add more problem examples
+- Improve existing examples
+- Fix bugs or typos
+- Enhance documentation
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

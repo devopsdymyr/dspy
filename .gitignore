@@ -3,6 +3,7 @@ venv/
 env/
 ENV/
 .venv
+*.venv
 
 # Python
 __pycache__/
@@ -52,4 +53,8 @@ htmlcov/
 # DSPy cache
 .cache/
 dspy_cache/
+
+# Test outputs
+*.log
+test_outputs/
 
